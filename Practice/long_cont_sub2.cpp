@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//ans + position
+
 int main() 
 {
 	int n;
