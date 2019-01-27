@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//just ans
+
 int main() 
 {
 	int n;
