@@ -8,3 +8,6 @@ Solutions to data structures and algorithm problems
 >1. There are two sorted arrays nums1 and nums2 of size m and n respectively.Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)). You may assume nums1 and nums2 cannot be both empty.
 >2. Longest Common Subsequence using DP.
 >3. Longest UnCommon Subsequence
+
+### Day 3
+>1. Find the length of the longest substring T of a given string (consists of lowercase letters only) such that every character in T appears no less than k times.
