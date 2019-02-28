@@ -23,3 +23,5 @@ The tree has no more than 1,000 nodes and the values are in the range -1,000,000
 >2. Find the sum of all the leaves in a given binary tree.
 >3. Find the sum of all the left leaves in a given binary tree.
 >4. Find the sum of all the right leaves in a given binary tree.
+>5. Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum.
+Note: A leaf is a node with no children.
