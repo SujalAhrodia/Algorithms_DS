@@ -3,7 +3,6 @@ public:
     string checkIPV6(string s)
     {
         stringstream str(s);
-        bool flag=true;
         int len=0;
         
         while(!str.eof())
@@ -26,7 +25,6 @@ public:
     string checkIPV4(string s)
     {
         stringstream str(s);
-        bool flag=true;
         int len=0;
         
         while(!str.eof())
@@ -49,6 +47,6 @@ public:
     }
     string validIPAddress(string IP) 
     {
-        return (IP.find('.') == string::npos) ? checkIPV6(IP): checkIPV4(IP);   
+        return (IP.find(':') == string::npos) ? checkIPV4(IP): checkIPV6(IP);   
     }
 };
