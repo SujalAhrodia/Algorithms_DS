@@ -25,3 +25,6 @@ The tree has no more than 1,000 nodes and the values are in the range -1,000,000
 >4. Find the sum of all the right leaves in a given binary tree.
 >5. Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum.
 Note: A leaf is a node with no children.
+
+## Day 6
+>1. Given an array of ages of people, find the total number of friend requests possible to be send according to a given criteria.
