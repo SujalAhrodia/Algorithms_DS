@@ -31,7 +31,6 @@ int check(int arr[], int n)
 }  
 
 int main() {
-	// your code goes here
 	int n=0;
 	cin>>n;
 	int a[n];
