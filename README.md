@@ -35,3 +35,6 @@ A word matches the pattern if there exists a permutation of letters p so that af
 (Recall that a permutation of letters is a bijection from letters to letters: every letter maps to another letter, and no two letters map to the same letter.)
 Return a list of the words in words that match the given pattern. 
 You may return the answer in any order.
+
+## Day 8 
+>1. Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
