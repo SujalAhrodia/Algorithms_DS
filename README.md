@@ -38,3 +38,6 @@ You may return the answer in any order.
 
 ## Day 8 
 >1. Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
+
+## Day 9
+>1. Given a positive integer n, break it into the sum of at least two positive integers and maximize the product of those integers. Return the maximum product you can get.
