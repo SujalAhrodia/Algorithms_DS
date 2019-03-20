@@ -41,3 +41,7 @@ You may return the answer in any order.
 
 ## Day 9
 >1. Given a positive integer n, break it into the sum of at least two positive integers and maximize the product of those integers. Return the maximum product you can get.
+
+## Day 10
+>1. You are given a list of non-negative integers, a1, a2, ..., an, and a target, S. Now you have 2 symbols + and -. For each integer, you should choose one from + and - as its new symbol.
+Find out how many ways to assign symbols to make sum of integers equal to target S.
