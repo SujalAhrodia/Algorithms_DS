@@ -51,3 +51,6 @@ Find out how many ways to assign symbols to make sum of integers equal to target
 Copy All: You can copy all the characters present on the notepad (partial copy is not allowed).
 Paste: You can paste the characters which are copied last time.
 Given a number n. You have to get exactly n 'A' on the notepad by performing the minimum number of steps permitted. Output the minimum number of steps to get n 'A'.
+
+## Day 12
+>1. Given an unsorted array of nonnegative integers, find a continous subarray which adds to a given number.
