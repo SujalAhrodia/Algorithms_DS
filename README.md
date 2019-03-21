@@ -54,3 +54,4 @@ Given a number n. You have to get exactly n 'A' on the notepad by performing the
 
 ## Day 12
 >1. Given an unsorted array of nonnegative integers, find a continous subarray which adds to a given number.
+>2. Given an unsorted array of integers, find the length of longest continuous increasing subsequence (subarray).
