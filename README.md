@@ -62,3 +62,4 @@ Given a number n. You have to get exactly n 'A' on the notepad by performing the
 >2. Given a read only array of n + 1 integers between 1 and n, find one number that repeats in linear time using less than O(n) space and traversing the stream sequentially O(1) times.
 >3. Given a list of non negative integers, arrange them such that they form the largest number.
 </details>
+>4. Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
