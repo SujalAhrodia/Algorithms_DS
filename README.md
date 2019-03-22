@@ -63,4 +63,6 @@ Given a number n. You have to get exactly n 'A' on the notepad by performing the
 >3. Given a list of non negative integers, arrange them such that they form the largest number.
 >4. Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
 >5. Given an unsorted integer array, find the first missing positive integer.
+>6. Given a singly linked list of N nodes. The task is to find middle of the linked list. For example, if given linked list is 1->2->3->4->5 then output should be 3. 
+If there are even nodes, then there would be two middle nodes, we need to print second middle element. For example, if given linked list is 1->2->3->4->5->6 then output should be 4.
 </details>
