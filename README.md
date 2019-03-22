@@ -52,6 +52,13 @@ Copy All: You can copy all the characters present on the notepad (partial copy i
 Paste: You can paste the characters which are copied last time.
 Given a number n. You have to get exactly n 'A' on the notepad by performing the minimum number of steps permitted. Output the minimum number of steps to get n 'A'.
 
-## Day 12
+## Day 12 
 >1. Given an unsorted array of nonnegative integers, find a continous subarray which adds to a given number.
->2. Given an unsorted array of integers, find the length of longest continuous increasing subsequence (subarray).
+
+## Special edition
+<details><summary>InterviewBit</summary>
+
+>1. Given an unsorted array of integers, find the length of longest continuous increasing subsequence (subarray).
+>2. Given a read only array of n + 1 integers between 1 and n, find one number that repeats in linear time using less than O(n) space and traversing the stream sequentially O(1) times.
+
+</details>
