@@ -69,4 +69,5 @@ If there are even nodes, then there would be two middle nodes, we need to print 
 >8. Write a function that returns true if the given Binary Tree is SumTree else false. A SumTree is a Binary Tree where value of every node x is equal to sum of nodes present in its left subtree and right subtree of x. An empty tree is SumTree and sum of an empty tree can be considered as 0. A leaf node is also considered as SumTree.
 >9. Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.
 >10. Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).
+>11. Given an array A of N positive integers and another number X. Determine whether or not there exist two elements in A whose sum is exactly X.
 </details>
