@@ -18,6 +18,23 @@ public:
     }
 };
 
+// Using string methods:
+
+class Solution {
+public:
+    int numJewelsInStones(string J, string S) 
+    {
+        int ans=0;
+        
+        for(char ch : S)
+        {
+            if(J.find(ch)!=string::npos)
+                ans++;
+        }
+        return ans;
+    }
+};
+
 
 // Set(in this case it costs more memory)
 
