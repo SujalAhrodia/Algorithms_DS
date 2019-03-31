@@ -72,3 +72,7 @@ If there are even nodes, then there would be two middle nodes, we need to print 
 >11. Given an array A of N positive integers and another number X. Determine whether or not there exist two elements in A whose sum is exactly X.
 >12. Given an input string, reverse the string word by word.
 </details>
+
+## Day 13
+>1. You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels.
+The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A".
