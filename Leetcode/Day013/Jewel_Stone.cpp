@@ -19,7 +19,7 @@ public:
 };
 
 
-// Hash Table(in this case it costs more memory)
+// Set(in this case it costs more memory)
 
 class Solution {
 public:
